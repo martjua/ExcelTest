@@ -1,0 +1,9 @@
+Python kick off: first need to know where your python.exe is located:
+
+import os
+import sys
+os.path.dirname(sys.executable)
+
+ex:
+program/script: C:\FAST\anaconda\2.5.0\python.exe
+Add arguments (optional): "C:<location of python file>\Pythonfile.py"
