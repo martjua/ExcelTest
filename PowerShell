@@ -1,0 +1,2 @@
+program/script: powershell.exe
+Add arguments (optional): -File "H:\Juan Martinez\Life-C.ps1"
